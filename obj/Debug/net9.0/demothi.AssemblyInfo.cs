@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("demothi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+590f51a37f226fdb384a763329b72f11cdef3559")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4722d31ed552a7da9b7d435111f7702b2d8b5111")]
 [assembly: System.Reflection.AssemblyProductAttribute("demothi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demothi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
